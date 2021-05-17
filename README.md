@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salgado3&label=Profile%20views&color=0e75b6&style=flat" alt="salgado3" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://salgado3.github.io/devJaimePortfolio/](https://salgado3.github.io/devJaimePortfolio/)
+- 👨‍💻 My projects are available at [https://salgado3.github.io/devJaimePortfolio/](https://salgado3.github.io/devJaimePortfolio/)
 
 - ⚡ Fun fact **I love to travel and talk about travel**
 
