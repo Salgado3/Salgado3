@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@jimbo_c" target="blank"><img align="center" src="hhttps://cdn-icons-png.flaticon.com/512/785/785252.png" alt="@jimbo_c" height="30" width="40" /></a>
+<a href="https://codepen.io/@jimbo_c" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/785/785252.png" alt="@jimbo_c" height="30" width="40" /></a>
 <a href="https://twitter.com/@jimcorona6" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" alt="@jimcorona6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaime salgado" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="jaime salgado" height="30" width="40" /></a>
 </p>
